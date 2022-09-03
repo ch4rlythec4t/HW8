@@ -1,0 +1,15 @@
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\bin\Debug\net6.0\Task54Option2.exe
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\bin\Debug\net6.0\Task54Option2.deps.json
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\bin\Debug\net6.0\Task54Option2.runtimeconfig.json
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\bin\Debug\net6.0\Task54Option2.dll
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\bin\Debug\net6.0\Task54Option2.pdb
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.csproj.AssemblyReference.cache
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.AssemblyInfoInputs.cache
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.AssemblyInfo.cs
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.csproj.CoreCompileInputs.cache
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.dll
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\refint\Task54Option2.dll
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.pdb
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\Task54Option2.genruntimeconfig.cache
+C:\Users\CH4\Desktop\gb\Homeworks\Programming\HW8\Task54Option2\obj\Debug\net6.0\ref\Task54Option2.dll
