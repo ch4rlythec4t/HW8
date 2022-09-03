@@ -1,10 +1,8 @@
 ﻿using System;
 class program
 {
-
     static int[,] DescendingOrder(int[,] array)
     {
-
         for (int i = 0; i < array.GetLength(0); i++)
         {
             int count = 0;
@@ -29,7 +27,6 @@ class program
         }
         return array;
     }
-
     static void WriteArray(int[,] array)
     {
         for (int i = 0; i < array.GetLength(0); i++)
